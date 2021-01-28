@@ -1,9 +1,8 @@
 # nvidia-cuda-docker
 
 ```
-# Usage:
-chmod +x nvidia_cuda_centos.sh
-sh nvidia_cuda_centos.sh
+# Quick Install
+curl -sSL https://raw.githubusercontent.com/pornpasok/nvidia-cuda-docker/main/nvidia_cuda_centos.sh | sh
 ```
 
 ```
